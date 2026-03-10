@@ -1,6 +1,6 @@
 # Subtimizer
 
-**Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates**
+**A Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates**
 
 [![DOI](https://zenodo.org/badge/doi/10.1021/acs.jcim.5c02430.svg?style=svg)](https://doi.org/10.1021/acs.jcim.5c02430)
 [![PyPI version](https://badge.fury.io/py/subtimizer.svg)](https://badge.fury.io/py/subtimizer)
@@ -336,6 +336,7 @@ Perform a secondary interface evaluation on the folded structures using the ipSA
 If you use Subtimizer in your work, please cite:
 
 > **Yekeen A.A., Meyer C.J., McCoy M., Posner B., Westover K.D.** Subtimizer: Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates. *Journal of Chemical Information and Modeling* (2026). [https://doi.org/10.1021/acs.jcim.5c02430](https://doi.org/10.1021/acs.jcim.5c02430)
+
 
 
 
